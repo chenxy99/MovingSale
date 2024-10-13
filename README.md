@@ -26,4 +26,4 @@
 
 
 ### 交付
-小件物品可学校附近当面交付，大件物品需自取(公寓: Edge on Oak; 地址: 313 Oak St SE).
+小件物品可学校附近(e.g., Keller Hall)当面交付，大件物品需自取(公寓: Edge on Oak; 地址: 313 Oak St SE).
