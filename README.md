@@ -16,6 +16,7 @@
 | 9    | <img src="figs/items/WechatIMG475.jpg" width="100"/> |                                                            手机三脚架                                                            | $8  |            &check;            |
 | 10   | <img src="figs/items/WechatIMG476.jpg" width="100"/> |                                                          床头充电LED小灯                                                          | $8  |            &check;            |
 | 11   | <img src="figs/items/WechatIMG478.jpg" width="100"/> |                                                   HDMI to DVI 转换线 6 feet                                                    | $4  |            &check;            |
+| 12   | <img src="figs/items/WechatIMG577.jpg" width="100"/> |                                                      Office Desk Chair                                                      | $15 |            &check;            |
 
 
 
