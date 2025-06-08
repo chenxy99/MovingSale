@@ -8,7 +8,7 @@
 | 1    | <img src="figs/items/WechatIMG467.jpg" width="100"/> |                                                     台灯 （适合办公桌或者床头柜上使用）                                                      | $10 |            &check;            |
 | 2    | <img src="figs/items/WechatIMG468.jpg" width="100"/> |                                                        Trader Joe 香薰                                                        | $2  |            &check;            |
 | 3    | <img src="figs/items/WechatIMG469.jpg" width="100"/> | 电暖器 [Target Link](https://www.target.com/p/lasko-ceramic-tower-heater-with-remote/-/A-85756740#lnk=sametab) (只用过一次, 原价~$60) | $35 |            &check;            |
-| 4    | <img src="figs/items/WechatIMG470.jpg" width="100"/> |                                                             厨房秤                                                             | $3  |              &cross;               |
+| 4    | <img src="figs/items/WechatIMG470.jpg" width="100"/> |                                                             厨房秤                                                             | $3  |            &cross;            |
 | 5    | <img src="figs/items/WechatIMG471.jpg" width="100"/> |                                                          Ice Tray                                                           | $2  |            &check;            |
 | 6    | <img src="figs/items/WechatIMG472.jpg" width="100"/> |                                                           垃圾桶，废纸篓                                                           | $3  |            &check;            |
 | 7    | <img src="figs/items/WechatIMG473.jpg" width="100"/> |                                                          3M M95 口罩                                                          | $5  |            &check;            |
@@ -18,7 +18,8 @@
 | 11   | <img src="figs/items/WechatIMG478.jpg" width="100"/> |                                                   HDMI to DVI 转换线 6 feet                                                    | $4  |            &check;            |
 | 12   | <img src="figs/items/WechatIMG577.jpg" width="100"/> |                                                      Office Desk Chair                                                      | $15 |            &cross;            |
 | 13   | <img src="figs/items/WechatIMG578.jpg" width="100"/> |                                                       灯泡，偏冷光 （一个灯泡$1）                                                       | $1  |            &check;            |
-| 14   | <img src="figs/items/WechatIMG579.jpg" width="100"/> |                                                           人造毛绒椅子                                                            | $15 |            &check;            |
+| 14   | <img src="figs/items/WechatIMG579.jpg" width="100"/> |                                                           人造毛绒椅子                                                            | $15 |           &cross;             |
+| 15   | <img src="figs/items/WechatIMG593.jpg" width="100"/> |                                                    Beat Studio3 Wireless                                                    | $90 |           &check;             |
 
 
 ### 联系方式
