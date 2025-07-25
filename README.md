@@ -19,7 +19,7 @@
 | 12   | <img src="figs/items/WechatIMG577.jpg" width="100"/> |                                                      Office Desk Chair                                                      | $15 |            &cross;            |
 | 13   | <img src="figs/items/WechatIMG578.jpg" width="100"/> |                                                       灯泡，偏冷光 （一个灯泡$1）                                                       | $1  |            &check;            |
 | 14   | <img src="figs/items/WechatIMG579.jpg" width="100"/> |                                                           人造毛绒椅子                                                            | $15 |           &cross;             |
-| 15   | <img src="figs/items/WechatIMG593.jpg" width="100"/> |                                                    Beat Studio3 Wireless                                                    | $100 |           &check;             |
+| 15   | <img src="figs/items/WechatIMG593.jpg" width="100"/> |                                                    Beat Studio3 Wireless                                                    | $100 |           &cross;             |
 
 
 ### 联系方式
